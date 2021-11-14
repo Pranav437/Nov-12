@@ -4,7 +4,7 @@ package Learning;
 
 public class Insurance {
     public static void main(String[] args) {
-        Premium premium = new Premium()
+        Premium premium = new Premium();
         premium.calculate(10000, 5, 0);
 
 
